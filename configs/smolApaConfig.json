@@ -1,0 +1,21 @@
+{
+  "api_url": "https://barn.joepegs.com",
+  "collection_address": "0xd8dc8ef20ef8e2aaf5f6ef43dec26c2cbf8a695f",
+  "graph_url": "https://api.thegraph.com/subgraphs/name/traderjoe-xyz/marketplace",
+  "max_size": {
+    "bids": 100,
+    "asks": 100,
+    "show_room": 50,
+    "largest_sales": 12,
+    "recent_sales": 12
+  },
+  "storage": {
+    "ask_key": "smol-apa-land-stats-asks",
+    "bid_key": "smol-apa-land-stats-bids",
+    "stats_key": "smol-apa-land-stats-collection",
+    "show_room_key": "smol-apa-land-stats-show-room",
+    "recent_sales_key": "smol-apa-land-stats-recent-sales",
+    "largest_sales_key": "smol-apa-land-stats-largest-sales",
+    "collection_key": "smol-apa-land-stats-whole-collection"
+  }
+}

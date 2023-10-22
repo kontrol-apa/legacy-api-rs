@@ -1,0 +1,21 @@
+{
+  "api_url": "https://barn.joepegs.com",
+  "collection_address": "0x3dd5e0f0659ca8b52925e504fe9f0250bfe68301",
+  "graph_url": "https://api.thegraph.com/subgraphs/name/traderjoe-xyz/marketplace",
+  "max_size": {
+    "bids": 100,
+    "asks": 100,
+    "show_room": 50,
+    "largest_sales": 12,
+    "recent_sales": 12
+  },
+  "storage": {
+    "ask_key": "smol-apa-stats-asks",
+    "bid_key": "smol-apa-stats-bids",
+    "stats_key": "smol-apa-stats-collection",
+    "show_room_key": "smol-apa-stats-show-room",
+    "recent_sales_key": "smol-apa-stats-recent-sales",
+    "largest_sales_key": "smol-apa-stats-largest-sales",
+    "collection_key": "smol-apa-stats-whole-collection"
+  }
+}
